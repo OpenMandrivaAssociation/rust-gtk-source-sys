@@ -5,8 +5,8 @@
 %global crate gtk-source-sys
 
 Name:           rust-%{crate}
-Version:        0.9.1
-Release:        2%{?dist}
+Version:        0.10.0
+Release:        1%{?dist}
 Summary:        FFI bindings to libgtksourceview-3
 
 # Upstream license specification: MIT
